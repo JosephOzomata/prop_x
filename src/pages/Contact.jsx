@@ -16,7 +16,7 @@ import {
   FaPhone,
   FaWhatsapp
 } from 'react-icons/fa';
-import { useAuth } from '../context/AuthContext';
+import { useAuth } from '../Context/AuthContext';
 import { uploadToCloudinary, deleteFromCloudinary } from '../utils/cloudinary';
 
 const Contact = () => {

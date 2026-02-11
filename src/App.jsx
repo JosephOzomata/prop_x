@@ -7,7 +7,7 @@ import emailjs from 'emailjs-com';
 
 
 
-import { AuthProvider } from './context/AuthContext';
+import { AuthProvider } from './Context/AuthContext';
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
 import ScrollToTop from './components/layout/ScrollToTop';
